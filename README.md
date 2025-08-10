@@ -8,7 +8,7 @@ gpt-oss-20b はローカルでも動きますが、今回は Google Colab の T4
 ## ノートブックの構成
 
 1.  **ライブラリのインストール**:
-    必要なライブラリ（`unsloth`、`torch`、`transformers`、`trl`、`datasets` など）をインストールします。
+    必要なライブラリをインストールします。
 
 2.  **モデルのロードと設定**:
     Unsloth の `FastLanguageModel` を使用してモデルをロード、パラメータを設定します。
